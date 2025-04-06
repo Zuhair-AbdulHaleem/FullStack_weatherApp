@@ -1,6 +1,6 @@
 # Weather Forecast App
 
-A full-stack weather application built with Next.js, Firebase, and Tailwind CSS. The app allows users to search for weather information by location and view current weather conditions along with a 5-day forecast.
+A full-stack weather application built as a submission for the PM accelerator assesment with Next.js, Firebase, and Tailwind CSS. The app allows users to search for weather information by location and view current weather conditions along with a 5-day forecast.
 
 ## Features
 
